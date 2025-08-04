@@ -33,12 +33,27 @@ This project is **inspired by and built using** the excellent YouTube tutorial b
 
 ## 🔑 Setup Instructions
 
-1. Clone this repository:
+1. **Clone this repository:**
    ```bash
    git clone https://github.com/AnshikaPrashanth/Weather_app_react
    cd Weather_app_react
-<img width="553" height="867" alt="Screenshot 2025-08-04 161047" src="https://github.com/user-attachments/assets/5c54f2ea-c4fc-4a35-8c8a-f514849a6c32" />
+2. **Install dependencies:**
 
+```
+npm install
+```
+**3.Create a .env file in the root and add your WeatherAPI key:**
+```
+REACT_APP_WEATHER_API_KEY=your_api_key_here
+```
+**4.Run the app locally:**
 
+```
+npm start
+```
+
+**🖼️ App Screenshot**
+
+<img width="553" height="867" alt="Screenshot 2025-08-04 161047" src="https://github.com/user-attachments/assets/5c54f2ea-c4fc-4a35-8c8a-f514849a6c32" /> ```
 
 
